@@ -9,3 +9,9 @@ Para a Nuvem Pública é quase sempre do tipo OpEx, que é quando eu gasto em se
 MODELOS DE NUVEM
 
 Nuvem Pública é quando alguém, alguma empresa é dona da infra, que precisa ser conectada via uma rede segura. Nuvem privada é quando é operado pela própria empresa
+
+
+
+BENEFICIOS DE COMPUTAÇAO EM NOVEM
+
+A nuvem oferece mais flexibilidade e confiabilidade, desempenho e eficiência melhorados e ajuda a reduzir os custos de TI. Isso também melhora a inovação
